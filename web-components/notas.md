@@ -1,6 +1,7 @@
 # What's a component?
 
 A component is a standard UI element that has a precise purpose:
+
 - An **avatar** is generally used for a profile picture
 - A **dropdown** list enables to hide/show a secondary navigation
 - **Tabs** are here to split the page content into different clickable sections
